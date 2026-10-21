@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "name": "ThenStep",
+    "tagline": "एक यात्रा। एक स्मार्ट योजना। हर अगला कदम और आसान।"
+  },
+  "nav": {
+    "planJourney": "यात्रा योजना बनाएं",
+    "savedTrips": "सहेजी गई यात्राएं",
+    "aiAssistant": "AI यात्रा सहायक",
+    "settings": "सेटिंग्स",
+    "language": "भाषा",
+    "apiStatus": "मुफ्त API सक्रिय"
+  },
+  "form": {
+    "title": "आज आप कहां जा रहे हैं?",
+    "subtitle": "पूरे भारत में सत्यापित स्मार्ट मल्टी-मोडल यात्रा योजना",
+    "originLabel": "प्रस्थान स्थान",
+    "originPlaceholder": "उदा: नई दिल्ली रेलवे स्टेशन / मैजेस्टिक बेंगलुरु",
+    "destinationLabel": "गंतव्य स्थान",
+    "destinationPlaceholder": "उदा: सरजापुर रोड / साइबर सिटी गुड़गांव",
+    "purposeLabel": "यात्रा का उद्देश्य",
+    "purposes": {
+      "interview": "नौकरी का इंटरव्यू",
+      "exam": "प्रतियोगी परीक्षा",
+      "appointment": "महत्वपूर्ण अपॉइंटमेंट",
+      "work": "कार्यालय / काम",
+      "other": "अन्य यात्रा"
+    },
+    "arrivalTimeLabel": "पहुंचने का समय",
+    "budgetLabel": "बजट प्राथमिकता",
+    "budgets": {
+      "low": "किफायती / बजट (₹0 - ₹100)",
+      "moderate": "मानक (₹100 - ₹300)",
+      "flexible": "एक्सप्रेस / लचीला (₹300+)"
+    },
+    "priorityLabel": "आपके लिए सबसे महत्वपूर्ण क्या है?",
+    "priorities": {
+      "lowest_cost": "न्यूनतम खर्च",
+      "shortest_time": "न्यूनतम यात्रा समय",
+      "less_walking": "कम पैदल चलना",
+      "fewer_transfers": "कम बदलाव"
+    },
+    "facilitiesNeeded": "यात्रा की आवश्यकताएं",
+    "needBreakfast": "किफायती नाश्ता / टिफिन",
+    "needFreshenUp": "फ्रेश होने के लिए शौचालय",
+    "needWaiting": "शांत प्रतीक्षा स्थल",
+    "btnGenerate": "स्मार्ट योजना तैयार करें",
+    "btnRecalculate": "योजना अपडेट करें"
+  },
+  "planner": {
+    "title": "आगमन एवं प्रस्थान अनुसूची",
+    "requiredArrival": "पहुंचने का समय",
+    "suggestedDeparture": "सुझाया गया प्रस्थान समय",
+    "estimatedTravel": "अनुमानित यात्रा समय",
+    "safetyBuffer": "सुरक्षा बफर",
+    "trafficAlert": "पीक ट्रैफिक चेतावनी",
+    "honestDataNotice": "सड़क नेटवर्क और प्रकाशित समय-सारणी के आधार पर गणना। लाइव जीपीएस सक्रिय नहीं है।"
+  },
+  "routes": {
+    "title": "उपलब्ध मार्ग विकल्प",
+    "badgeRecommended": "अनुशंसित",
+    "badgeLowestCost": "न्यूनतम खर्च",
+    "badgeFastest": "सबसे तेज",
+    "viewSteps": "चरण-दर-चरण मार्गदर्शिका",
+    "estimatedFare": "अनुमानित किराया",
+    "duration": "अवधि",
+    "distance": "दूरी",
+    "walking": "पैदल दूरी",
+    "transfers": "बदलाव",
+    "saveTrip": "यात्रा सहेजें",
+    "tripSaved": "यात्रा सहेज ली गई!"
+  },
+  "timeline": {
+    "title": "चरण-दर-चरण यात्रा समयरेखा",
+    "walk": "पैदल चलें",
+    "board": "सवारी लें",
+    "arrive": "गंतव्य पर पहुंचें",
+    "fareNote": "किराया विवरण"
+  },
+  "places": {
+    "title": "आस-पास की सुविधाएं",
+    "subtitle": "अपने गंतव्य के आस-पास सत्यापित सार्वजनिक और वाणिज्यिक सुविधाएं खोजें",
+    "tabs": {
+      "breakfast": "किफायती नाश्ता",
+      "restaurant": "रेस्तरां",
+      "toilets": "स्वच्छ शौचालय",
+      "freshen_up": "फ्रेश होने की सुविधा",
+      "waiting_place": "प्रतीक्षा स्थल",
+      "transit_stop": "पारगमन स्टॉप"
+    },
+    "verifiedPublic": "सत्यापित सार्वजनिक सुविधा",
+    "commercialAccess": "केवल ग्राहकों के लिए",
+    "unconfirmed": "अपुष्ट पहुंच",
+    "distance": "दूरी पर"
+  },
+  "assistant": {
+    "title": "ThenStep AI यात्रा साथी",
+    "subtitle": "स्वाभाविक भाषा में पूछें (उदा: 'मुझे सुबह 10 बजे सरजापुर में इंटरव्यू देना है, मैजेस्टिक से निकलना है...')",
+    "placeholder": "अपनी यात्रा का विवरण यहां लिखें...",
+    "btnSend": "भेजें",
+    "ruleEngine": "स्मार्ट नियम-आधारित NLP",
+    "ollamaEngine": "स्थानीय Ollama LLM सक्रिय"
+  }
+}

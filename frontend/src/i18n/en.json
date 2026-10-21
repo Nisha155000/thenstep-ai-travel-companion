@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "name": "ThenStep",
+    "tagline": "One journey. One smart plan. Every next step made easier."
+  },
+  "nav": {
+    "planJourney": "Plan Journey",
+    "savedTrips": "Saved Trips",
+    "aiAssistant": "AI Travel Assistant",
+    "settings": "Settings",
+    "language": "Language",
+    "apiStatus": "Free APIs Active"
+  },
+  "form": {
+    "title": "Where are you heading today?",
+    "subtitle": "Smart, verified multi-modal journey planning across India",
+    "originLabel": "Starting Location",
+    "originPlaceholder": "e.g., Majestic Bus Stand, Bengaluru / NDLS Delhi",
+    "destinationLabel": "Destination",
+    "destinationPlaceholder": "e.g., Sarjapur Road / RGA Tech Park / Cyber City",
+    "purposeLabel": "Journey Purpose",
+    "purposes": {
+      "interview": "Job Interview",
+      "exam": "Competitive Exam",
+      "appointment": "Important Appointment",
+      "work": "Office / Work",
+      "other": "Other Travel"
+    },
+    "arrivalTimeLabel": "Must Arrive By",
+    "budgetLabel": "Budget Preference",
+    "budgets": {
+      "low": "Budget / Economical (₹0 - ₹100)",
+      "moderate": "Standard (₹100 - ₹300)",
+      "flexible": "Express / Flexible (₹300+)"
+    },
+    "priorityLabel": "What Matters Most?",
+    "priorities": {
+      "lowest_cost": "Lowest Cost",
+      "shortest_time": "Shortest Travel Time",
+      "less_walking": "Less Walking",
+      "fewer_transfers": "Fewer Transfers"
+    },
+    "facilitiesNeeded": "Trip Requirements",
+    "needBreakfast": "Affordable Breakfast / Tiffin",
+    "needFreshenUp": "Freshening-up / Restroom",
+    "needWaiting": "Quiet Waiting Spot",
+    "btnGenerate": "Generate Smart Plan",
+    "btnRecalculate": "Update Plan"
+  },
+  "planner": {
+    "title": "Arrival & Departure Schedule",
+    "requiredArrival": "Required Arrival",
+    "suggestedDeparture": "Suggested Departure",
+    "estimatedTravel": "Estimated Travel Duration",
+    "safetyBuffer": "Safety Buffer",
+    "trafficAlert": "Peak Traffic Advisory",
+    "honestDataNotice": "Calculated from road network & published transit timetable. Real-time GPS not active."
+  },
+  "routes": {
+    "title": "Available Route Options",
+    "badgeRecommended": "Recommended",
+    "badgeLowestCost": "Lowest Cost",
+    "badgeFastest": "Fastest",
+    "viewSteps": "Step-by-Step Guide",
+    "estimatedFare": "Estimated Fare",
+    "duration": "Duration",
+    "distance": "Distance",
+    "walking": "Walking",
+    "transfers": "Transfers",
+    "saveTrip": "Save Journey",
+    "tripSaved": "Journey Saved!"
+  },
+  "timeline": {
+    "title": "Step-by-Step Journey Timeline",
+    "walk": "Walk",
+    "board": "Board",
+    "arrive": "Arrive at Destination",
+    "fareNote": "Fare breakdown"
+  },
+  "places": {
+    "title": "Nearby Facilities Explorer",
+    "subtitle": "Discover verified amenities around your destination across India",
+    "tabs": {
+      "breakfast": "Affordable Breakfast",
+      "restaurant": "Restaurants",
+      "toilets": "Clean Restrooms",
+      "freshen_up": "Freshen Up",
+      "waiting_place": "Waiting Places",
+      "transit_stop": "Transit Stops"
+    },
+    "verifiedPublic": "Verified Public Facility",
+    "commercialAccess": "Customer Access Only",
+    "unconfirmed": "Unconfirmed Access",
+    "distance": "away"
+  },
+  "assistant": {
+    "title": "ThenStep AI Travel Companion",
+    "subtitle": "Ask in natural language (e.g. 'I have an interview in Sarjapur at 10 AM starting from Majestic...')",
+    "placeholder": "Type your journey request here...",
+    "btnSend": "Send",
+    "ruleEngine": "Smart Rule-Based NLP",
+    "ollamaEngine": "Local Ollama LLM Active"
+  }
+}

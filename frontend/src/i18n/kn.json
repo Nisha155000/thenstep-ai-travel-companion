@@ -1,0 +1,104 @@
+{
+  "brand": {
+    "name": "ThenStep",
+    "tagline": "ಒಂದು ಪ್ರಯಾಣ. ಒಂದು ಸ್ಮಾರ್ಟ್ ಯೋಜನೆ. ಪ್ರತಿಯೊಂದು ಮುಂದಿನ ಹೆಜ್ಜೆಯೂ ಸುಲಭ."
+  },
+  "nav": {
+    "planJourney": "ಪ್ರಯಾಣ ಯೋಜನೆ",
+    "savedTrips": "ಉಳಿಸಿದ ಪ್ರಯಾಣಗಳು",
+    "aiAssistant": "AI ಪ್ರಯಾಣ ಸಹಾಯಕ",
+    "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "language": "ಭಾಷೆ",
+    "apiStatus": "ಉಚಿತ API ಗಳು ಸಕ್ರಿಯವಾಗಿವೆ"
+  },
+  "form": {
+    "title": "ಇಂದು ನಿಮ್ಮ ಪ್ರಯಾಣ ಎಲ್ಲಿಗೆ?",
+    "subtitle": "ಭಾರತದಾದ್ಯಂತ ಪರಿಶೀಲಿಸಿದ ಸ್ಮಾರ್ಟ್ ಬಹು-ಮಾದರಿ ಪ್ರಯಾಣ ಯೋಜನೆ",
+    "originLabel": "ಪ್ರಾರಂಭದ ಸ್ಥಳ",
+    "originPlaceholder": "ಉದಾ: ಮೆಜೆಸ್ಟಿಕ್ ಬಸ್ ನಿಲ್ದಾಣ, ಬೆಂಗಳೂರು",
+    "destinationLabel": "ತಲುಪಬೇಕಾದ ಸ್ಥಳ",
+    "destinationPlaceholder": "ಉದಾ: ಸರ್ಜಾಪುರ ರಸ್ತೆ / RGA ಟೆಕ್ ಪಾರ್ಕ್",
+    "purposeLabel": "ಪ್ರಯಾಣದ ಉದ್ದೇಶ",
+    "purposes": {
+      "interview": "ಉದ್ಯೋಗ ಸಂದರ್ಶನ",
+      "exam": "ಸ್ಪರ್ಧಾತ್ಮಕ ಪರೀಕ್ಷೆ",
+      "appointment": "ಮುಖ್ಯ ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್",
+      "work": "ಕಚೇರಿ / ಕೆಲಸ",
+      "other": "ಇತರ ಪ್ರಯಾಣ"
+    },
+    "arrivalTimeLabel": "ತಲುಪಬೇಕಾದ ಸಮಯ",
+    "budgetLabel": "ಬಜೆಟ್ ಆದ್ಯತೆ",
+    "budgets": {
+      "low": "ಕಡಿಮೆ ಬಜೆಟ್ (₹0 - ₹100)",
+      "moderate": "ಮಧ್ಯಮ (₹100 - ₹300)",
+      "flexible": "ಎಕ್ಸ್‌ಪ್ರೆಸ್ / ಹೊಂದಿಕೊಳ್ಳುವ (₹300+)"
+    },
+    "priorityLabel": "ಯಾವುದು ಮುಖ್ಯ?",
+    "priorities": {
+      "lowest_cost": "ಕಡಿಮೆ ದರ",
+      "shortest_time": "ಕಡಿಮೆ ಸಮಯ",
+      "less_walking": "ಕಡಿಮೆ ನಡಿಗೆ",
+      "fewer_transfers": "ಕಡಿಮೆ ಬದಲಾವಣೆಗಳು"
+    },
+    "facilitiesNeeded": "ಪ್ರಯಾಣದ ಅವಶ್ಯಕತೆಗಳು",
+    "needBreakfast": "ಕೈಗೆಟುಕುವ ಉಪಹಾರ / ತಿಂಡಿ",
+    "needFreshenUp": "ಫ್ರೆಶ್ ಆಗಲು ಶೌಚಾಲಯ",
+    "needWaiting": "ಶಾಂತ ಕಾಯುವ ಸ್ಥಳ",
+    "btnGenerate": "ಸ್ಮಾರ್ಟ್ ಯೋಜನೆ ರಚಿಸಿ",
+    "btnRecalculate": "ಯೋಜನೆ ನವೀಕರಿಸಿ"
+  },
+  "planner": {
+    "title": "ಆಗಮನ ಮತ್ತು ನಿರ್ಗಮನ ವೇಳಾಪಟ್ಟಿ",
+    "requiredArrival": "ತಲುಪಬೇಕಾದ ಸಮಯ",
+    "suggestedDeparture": "ಸೂಚಿಸಲಾದ ಹೊರಡುವ ಸಮಯ",
+    "estimatedTravel": "ಅಂದಾಜು ಪ್ರಯಾಣದ ಅವಧಿ",
+    "safetyBuffer": "ಸುರಕ್ಷತಾ ಬಫರ್",
+    "trafficAlert": "ಟ್ರಾಫಿಕ್ ಮುನ್ಸೂಚನೆ",
+    "honestDataNotice": "ರಸ್ತೆ ಜಾಲ ಮತ್ತು ಪ್ರಕಟಿತ ವೇಳಾಪಟ್ಟಿಯ ಆಧಾರದ ಮೇಲೆ ಲೆಕ್ಕಹಾಕಲಾಗಿದೆ. ಲೈವ್ ಜಿಪಿಎಸ್ ಸಕ್ರಿಯವಾಗಿಲ್ಲ."
+  },
+  "routes": {
+    "title": "ಲಭ್ಯವಿರುವ ಮಾರ್ಗ ಆಯ್ಕೆಗಳು",
+    "badgeRecommended": "ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ",
+    "badgeLowestCost": "ಕಡಿಮೆ ವೆಚ್ಚ",
+    "badgeFastest": "ಅತ್ಯಂತ ವೇಗ",
+    "viewSteps": "ಹಂತ-ಹಂತದ ಮಾರ್ಗದರ್ಶಿ",
+    "estimatedFare": "ಅಂದಾಜು ದರ",
+    "duration": "ಅವಧಿ",
+    "distance": "ದೂರ",
+    "walking": "ನಡಿಗೆ",
+    "transfers": "ಬದಲಾವಣೆ",
+    "saveTrip": "ಪ್ರಯಾಣ ಉಳಿಸಿ",
+    "tripSaved": "ಉಳಿಸಲಾಗಿದೆ!"
+  },
+  "timeline": {
+    "title": "ಹಂತ-ಹಂತದ ಪ್ರಯಾಣದ ಟೈಮ್‌ಲೈನ್",
+    "walk": "ನಡೆಯಿರಿ",
+    "board": "ಹತ್ತಿರಿ",
+    "arrive": "ಗಮ್ಯಸ್ಥಾನ ತಲುಪಿ",
+    "fareNote": "ದರ ವಿವರಣೆ"
+  },
+  "places": {
+    "title": "ಹತ್ತಿರದ ಸೌಲಭ್ಯಗಳ ಪರಿಶೋಧಕ",
+    "subtitle": "ನಿಮ್ಮ ತಲುಪುವ ಸ್ಥಳದ ಬಳಿಯಿರುವ ಪರಿಶೀಲಿಸಿದ ಸೌಲಭ್ಯಗಳನ್ನು ಹುಡುಕಿ",
+    "tabs": {
+      "breakfast": "ಉಪಹಾರ / ತಿಂಡಿ",
+      "restaurant": "ರೆಸ್ಟೋರೆಂಟ್‌ಗಳು",
+      "toilets": "ಶೌಚಾಲಯಗಳು",
+      "freshen_up": "ಸ್ವಚ್ಛತಾ ಸೌಲಭ್ಯ",
+      "waiting_place": "ಕಾಯುವ ಸ್ಥಳಗಳು",
+      "transit_stop": "ಸಾರಿಗೆ ನಿಲ್ದಾಣಗಳು"
+    },
+    "verifiedPublic": "ಪರಿಶೀಲಿಸಿದ ಸಾರ್ವಜನಿಕ ಸೌಲಭ್ಯ",
+    "commercialAccess": "ಗ್ರಾಹಕರಿಗೆ ಮಾತ್ರ ಪ್ರವೇಶ",
+    "unconfirmed": "ದೃಢೀಕರಿಸದ ಪ್ರವೇಶ",
+    "distance": "ದೂರದಲ್ಲಿದೆ"
+  },
+  "assistant": {
+    "title": "ThenStep AI ಪ್ರಯಾಣ ಸಹಾಯಕ",
+    "subtitle": "ಸಹಜ ಭಾಷೆಯಲ್ಲಿ ಕೇಳಿ (ಉದಾ: 'ನನಗೆ ಬೆಳಗ್ಗೆ 10 ಗಂಟೆಗೆ ಸರ್ಜಾಪುರದಲ್ಲಿ ಸಂದರ್ಶನವಿದೆ, ಮೆಜೆಸ್ಟಿಕ್‌ನಿಂದ ಹೊರಡುತ್ತಿದ್ದೇನೆ...')",
+    "placeholder": "ನಿಮ್ಮ ಪ್ರಯಾಣದ ವಿವರಗಳನ್ನು ಇಲ್ಲಿ ಬರೆಯಿರಿ...",
+    "btnSend": "ಕಳುಹಿಸಿ",
+    "ruleEngine": "ಸ್ಮಾರ್ಟ್ ನಿಯಮ-ಆಧಾರಿತ NLP",
+    "ollamaEngine": "ಸ್ಥಳೀಯ Ollama LLM ಸಕ್ರಿಯ"
+  }
+}
